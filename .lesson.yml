@@ -1,0 +1,5 @@
+---
+title: "Redux Action Creators"
+type: "article"
+description: "Implement action creators for generating our actions"
+tags: "javascript, redux"
